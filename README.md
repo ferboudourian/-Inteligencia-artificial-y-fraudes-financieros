@@ -1,1 +1,2 @@
 # -Inteligencia-artificial-y-fraudes-financieros
+Los deepfakes han revolucionado el fraude digital. Con IA, los estafadores pueden imitar voces y rostros con precisión, engañando a empresas y clientes. Esto ha llevado a pérdidas millonarias y a un aumento de la desconfianza en el sector financiero. Para combatirlo, se están implementando tecnologías como la seguridad biométrica y sistemas avanzados de detección de deepfakes. La regulación y la educación son claves para enfrentar este desafío. 
